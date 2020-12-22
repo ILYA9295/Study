@@ -34,6 +34,4 @@ switch (num) {
             default:
                 console.log('not this time');
                 break;
-
-
 }
